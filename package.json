@@ -33,7 +33,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^8.2.3",
-    "commitizen": "^2.3.0",
+    "commitizen": "^3.0.7",
     "conventional-changelog-cli": "^1.2.0",
     "eslint": "^5.0.0",
     "husky": "^0.13.1",
