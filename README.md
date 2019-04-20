@@ -7,7 +7,7 @@ eslint-config-mofengkeji
 ## 安装
 
 ```
-$ npm install --save-dev eslint eslint-plugin-vue eslint-config-mofengkeji
+$ npm install --save-dev eslint eslint-plugin-vue eslint-config-mofengkeji babel-eslint
 ```
 
 
