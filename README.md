@@ -23,7 +23,7 @@ $ npm install --save-dev eslint eslint-plugin-vue eslint-config-mofengkeji babel
 }
 ```
 
-记得同时添加 .eslintconfig
+记得同时添加 .eslintignore
 ```
 build/*.js
 config/*.js
